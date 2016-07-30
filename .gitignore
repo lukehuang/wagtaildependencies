@@ -1,0 +1,4 @@
+wagtaildependencies.egg-info/
+dist/
+build/
+*.pyc
